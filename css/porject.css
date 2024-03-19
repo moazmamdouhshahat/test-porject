@@ -1,0 +1,2174 @@
+/* ====================stert section1  =  ========== */
+
+.section1{
+    height: 100vh;
+    background-image: url(../img/img/hero-bg.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment:fixed ;
+}
+.section1 .bg-dark{
+    background-color: rgb(3, 3, 3)!important;
+}
+
+.navbar-brand{
+    margin-left: 5rem ;
+    font-size: 25px;
+    font-weight: bold;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    font-size: 20px;
+}
+.navbar-collapse{
+justify-content: center;
+}
+.section1 .layout{
+    width: 100%;
+    height: 92vh;
+    /* background-color: red; */
+    position: relative;
+    top: 65px;
+}
+.section1 .layout .cotnont{
+    width: 100%;
+    height: 55%;
+    /* background-color: blue; */
+    position: relative;
+    top: 35%;
+    text-align: center;
+    padding: 1px auto;
+
+}
+
+.section1 .layout .cotnont h1{
+    margin: 15px auto;
+    color: white;
+    font-size: 50px;
+}
+.section1 .layout .cotnont p{
+ font-size: 25px; 
+ color: #746c67;
+ margin: 20px auto 20px auto;
+}
+.section1 .layout .cotnont button{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border: 1px solid white;
+}
+/* ==================== Staret media=============== */
+@media(max-width:550px){
+.section1 .layout .cotnont h1{
+    font-size: 25px
+}
+.section1 .layout .cotnont p {
+    font-size: 11px;
+}
+.section1 .layout .cotnont button{
+    font-size: 8px;
+}
+
+}
+/* ==================== end media=============== */
+/* ==================== end section1  =  ========== */
+
+
+/* <!-- ============================== stert section 2 ======================= !--> */
+
+.card{
+    border: none;
+}
+
+.comtainer{
+ width: 100%;
+ height: 100vh;
+}
+
+
+/* <!-- ============================== end section 2 ======================= !--> */
+
+
+
+/* <!-- ============================== stert section 3 ======================= !--> */
+.section3{
+background-color: rgba(170, 210, 210, 0.53);
+
+border-right:1px solid black ;
+border-left:1px solid black ;
+border-top: 1px solid black;
+width: 100%;
+}
+.item3{
+    margin-right: 0px;
+}
+.section3 .row div{
+margin: 20px auto;
+border-right:1px black ;
+
+}
+.section3 .row div .h4{
+    color: rgb(55, 196, 196);
+    font-size: 30px;
+}
+.section3 .row div h3{
+    color: #746c67;
+    margin: 10px auto;
+    font-size: 25px;
+}
+.section3 .row div p{
+    color: grey;
+    font-size:20px;
+}
+.section3 .row .moaz1{
+    border-bottom : 1px solid black ;
+    margin-top:-20px ;
+}
+.section3 .row .moaz2{
+    border-left: 1px solid black ;
+    border-bottom : 1px solid black ;
+    margin-top: -3px;
+}
+.section3 .row .moaz3{
+    border-bottom : 1px solid black ;
+    margin-top: -3px;
+    border-left:1px solid black ;
+}
+.section3 .row .moaz4{
+    border-bottom : 1px solid black ;
+  
+}
+.section3 .row .moaz5{
+    border-bottom : 1px solid black ;
+    margin-top: -20px;
+    border-left:1px solid black ;
+}
+.section3 .row .moaz6{
+    border-bottom : 1px solid black ;
+    margin-top: -20px;
+    border-left:1px solid black ;
+}
+
+/* <!-- ============================== end section 3 ======================= !--> */
+
+
+/* <!-- ============================== stert section 4 ======================= !--> */
+.section4{
+    width: 100%;
+    /* height: 100vh; */
+    margin: 20px auto;
+    /* background-color: crimson; */
+    
+        
+}
+.item{
+    margin-right: 0px;
+}
+.section4  .home{
+    margin-top: 10px;
+}
+.section4 .image{
+    padding-left: 120px;
+}
+
+
+
+/*=========================   start media section 4 ================= */
+
+
+@media(max-width:425px){
+    .section4 .imege{
+        width: 60%;
+    }
+
+    .section4 {
+        width: 97%;
+    height: 148vh
+}
+element.style {
+    margin-top: 100%;
+}
+}
+
+
+/*=========================   end media section 4 ================= */
+
+
+
+
+/* <!-- ============================== end section 4 ======================= !--> */
+
+
+/* <!-- ============================== stert section 5 ======================= !--> */
+
+
+.section5{
+    width: 100%;
+    height: auto;
+
+}
+.section5 .titl1{
+    margin: 10px;
+    font-size: 50px;
+    /* background-color: blue; */
+}
+.section5 .titl{
+    margin: 30px;
+    font-size: 20px;
+}
+.testimonials{
+background-color: rgba(153, 238, 238, 0.584);
+font-size: 20px;
+margin: 20 20px;
+height: 40vh;
+font-style: normal;
+}
+/* <!-- ============================== end section 5 ======================= !--> */
+/* start media section 5 */
+
+@media(max-width :550px){
+
+.section5 {
+   margin-top: 32%;
+   height: 227vh;
+    /* color: /crimson; */
+}
+}
+
+/* end media section 5 */
+
+
+/* <!-- ============================== stert section  6 ======================= !--> */
+.section6{
+    background-color: rgb(143, 193, 193);
+    width: 100%;height: 100vh;
+    margin: 20px auto;
+}
+
+.section6 .titl1{
+    margin: 30px;
+    font-size: 50px;
+    margin-top: 40px;
+    /* background-color: blue; */
+}
+.section6 .titl{
+    margin: 30px;
+    font-size: 20px;
+}
+
+.img1{
+    margin: auto;
+}
+.card-deck{
+    margin-right: 0px;
+    margin-left: -21px;
+    margin-top: 6%;
+}
+.card_item{
+    height: 40vh;
+}
+.card-title{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+/* start media section 5 */
+
+@media(max-width :550px){
+
+    .section6 {
+        margin-top: 10%;
+        /* background-color: blue; */
+        height: 196vh;
+
+        /* color: /crimson; */
+    }
+    }
+    
+    /* end media section 5 */
+/* <!-- ============================== end section 6 ======================= !--> */
+
+
+
+
+/* <!-- ============================== stert section  7 ======================= !--> */
+
+
+
+.section7{
+background-color: rgb(155, 205, 205)  !important;
+margin: auto;
+width: 100%;
+    
+}
+.nav{
+    justify-content: center;
+}
+.nav-item{
+    background-color: aliceblue;
+    color: aqua;
+    padding: 5px 10px;
+    color: rgb(224, 217, 217);
+}
+.section7 .nav .li1{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+
+.section7 .nav .li2{
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+}
+.nav-link{
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav-pills .nav-link {
+    background: none;
+    border: 0;
+    border-radius: 0.25rem;
+color: black;}
+
+.nav-pills .nav-link.active{
+    color: rgb(74, 175, 198);
+    background-color: transparent !important;
+}
+
+.section7 .cotatiner .img{
+    
+    width: 97%;
+}
+/* =================== hover  ALL============= */
+/* =================== parent photo ============= */
+.parent{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-1.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent .child{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent .child ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent .child ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent:hover .child{
+    opacity: 1;
+}
+.parent:hover .child::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent:hover .child ::after
+{
+    right: 5px;
+    bottom: 5px;
+}
+
+/* =================== end parent photo ============= */
+
+/* =================== parent photo 4============= */
+
+
+.parent4{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-5.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent4::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent4:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent4 .child4{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent4 .child4 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent4 .child4 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent4:hover .child4{
+    opacity: 1;
+}
+.parent4:hover .child4::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent4:hover .child4::after{
+    right: 5px;
+    bottom: 5px;
+}
+
+
+
+/* ===================  end parent photo 4============= */
+
+
+/* =================== parent photo 5 ================= */
+
+
+
+.parent5{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-6.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent5::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent5:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent5 .child5{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent .child5 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent5 .child5 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent5:hover .child5{
+    opacity: 1;
+}
+.parent5:hover .child5::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent5:hover .child5::after{
+    right: 5px;
+    bottom: 5px;
+}
+
+
+
+
+
+
+
+/* ===================  end parent photo 5 ============= */
+
+
+/* ===================    parent photo 6 ============= */
+
+
+
+.parent6{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-7.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent6::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent6:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent6 .child6{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent6 .child6 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent6 .child6 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent6:hover .child6{
+    opacity: 1;
+}
+.parent6:hover .child6::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent6:hover .child6::after{
+    right: 5px;
+    bottom: 5px;
+}
+
+
+
+/* ===================  end parent photo 6 ============= */
+/* ===================    parent photo 7 ============= */
+
+
+
+.parent7{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-8.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent7::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent7:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent7 .child7{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent7 .child7 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent7 .child7 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent7:hover .child7{
+    opacity: 1;
+}
+.parent7:hover .child7::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent7:hover .child7::after{
+    right: 5px;
+    bottom: 5px;
+}
+
+
+/* ===================  end parent photo 7 ============= */
+
+/* ===================    parent photo 8 ============= */
+
+
+
+.parent8{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-9.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent8::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent8:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent8 .child8{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent8 .child8 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent8 .child8 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent8:hover .child8{
+    opacity: 1;
+}
+.parent8:hover .child8::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent8:hover .child8::after{
+    right: 5px;
+    bottom: 5px;
+}
+
+
+/* ===================  end parent photo 8 ============= */
+
+/* ===================    parent photo 9 ============= */
+
+
+
+.parent9{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-details-1.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent9::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent9:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent9 .child9{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent9 .child9 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent9 .child9 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent9:hover .child9{
+    opacity: 1;
+}
+.parent9:hover .child9::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent9:hover .child9::after{
+    right: 5px;
+    bottom: 5px;
+}
+
+
+/* ===================  end parent photo 9 ============= */
+
+/* ===================    parent photo 10 ============= */
+
+
+
+.parent10{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/slide/slide-17.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent10::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent10:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent10 .child10{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent10 .child10 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent10 .child10 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent10:hover .child10{
+    opacity: 1;
+}
+.parent10:hover .child10::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent10:hover .child10::after{
+    right: 5px;
+    bottom: 5px;
+}
+
+
+/* ===================  end parent photo 10 ============= */
+
+
+/* ===================    parent photo 11 ============= */
+
+
+
+.parent11{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-details-3.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent11::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent11:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent11 .child11{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent11 .child11 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent11 .child11 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent11:hover .child11{
+    opacity: 1;
+}
+.parent11:hover .child11::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent11:hover .child11::after{
+    right: 5px;
+    bottom: 5px;
+}
+
+
+/* ===================  end parent photo 10 ============= */
+
+
+
+/* =================== hover  ALL============= */
+
+
+
+/* ================= hever profile photo 1 ====================*/
+.parent1{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-4.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent1::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent1:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent1 .child1{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent1 .child1 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent1 .child1 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent1:hover .child1{
+    opacity: 1;
+}
+.parent1:hover .child1::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent1:hover .child1 ::after
+{
+    right: 5px;
+    bottom: 5px;
+}
+/* ================= end photo 1 ====================*/
+
+/* =============== pohoto 2 =========== */
+
+
+.parent2{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-2.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent2::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent2:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent2 .child2{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent2 .child2 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent2 .child2 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent2:hover .child2{
+    opacity: 1;
+}
+.parent2:hover .child2::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent2:hover .child2 ::after
+{
+    right: 5px;
+    bottom: 5px;
+}
+
+
+/* ===============  end pohoto 2 =========== */
+
+/* ===============  pohoto 3=========== */
+
+.parent3{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-3.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent3::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent3:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent3 .child3{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent3 .child3 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent3 .child3 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent3:hover .child3{
+    opacity: 1;
+}
+.parent3:hover .child3::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent3:hover .child3 ::after
+{
+    right: 5px;
+    bottom: 5px;
+}
+/* ===============   end pohoto 3=========== */
+
+
+
+/* ================= end profile photo  ====================*/
+
+
+
+
+
+
+/* ================= stert contect photo  ====================*/ 
+
+
+
+
+/* ===============   stert one  pohoto and contect =========== */
+
+
+.parent14{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-7.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent14::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent14:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent14 .child14{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent14 .child14 ::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent14 .child14 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent14:hover .child14{
+    opacity: 1;
+}
+.parent14:hover .child14::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent14:hover .child14 ::after
+{
+    right: 5px;
+    bottom: 5px;
+}
+
+
+/* ===============   end one  pohoto and contect =========== */
+
+
+
+/* ===============   stert tow  pohoto and contect =========== */
+
+.parent15{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-8.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent15::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent15:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent15 .child15{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent15 .child15::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent15 .child15 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent15:hover .child15{
+    opacity: 1;
+}
+.parent15:hover .child15::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent15:hover .child15 ::after
+{
+    right: 5px;
+    bottom: 5px;
+}
+
+/* ===============   end tow  pohoto and contect =========== */
+
+.parent16{
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    margin: 10px 10px;
+    background-image: url(../img/img/portfolio/portfolio-9.jpg);
+    background-repeat:no-repeat ;
+    background-size:100% 100% ;
+    position: relative;
+    overflow: hidden;
+}
+ .parent16::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 30px;
+    right: 30px;
+    top: 30px;
+    bottom: 30px;
+    transition: all 1s;
+    opacity: 0;
+ }
+
+
+.parent16:hover::before{
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+transition: all 1s;
+opacity: 1;
+}
+
+.parent16 .child16{
+    width: 100%;
+    height: 100%;
+    background-color: red transparent;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    opacity: 0;
+    transition: all 1s;
+    padding-top:100px ;
+    color: aliceblue;
+}
+.parent16 .child16::before{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: rgb(255, 255, 255); */
+    top: 30px;
+    left: 30px;
+    border-top: 2px solid white ;
+    border-left: 2px solid rgb(255, 255, 255) ;
+    transition: all 1s;
+
+}
+.parent16 .child16 ::after{
+    content: "";
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    /* background-color: #fffdfd; */
+    bottom: 20px;
+    right: 30px;
+    border-bottom:  2px solid white ;
+    border-right: 2px solid white ;
+    transition: all 1s;
+
+}
+.parent16:hover .child16{
+    opacity: 1;
+}
+.parent16:hover .child16::before{
+    top: 5px;
+    left: 5px;
+}
+
+.parent16:hover .child16 ::after
+{
+    right: 5px;
+    bottom: 5px;
+}
+
+/* ================= end contect photo  ====================*/ 
+
+
+/* <!-- ============================== end section 7 ======================= !--> */
+
+
+
+
+/* ============================  Start section 8 =====================  */
+.section8{
+    width: 100%;
+    height: 500px;
+    background-color: rgba(127, 255, 212, 0.441)!important;
+     margin-top: 20px;
+    position: absolute;
+    padding-left:10%;
+    padding-right: 10%;
+   
+}
+.section8 .client{
+    margin-top: 50px;
+    /* background-color: black; */
+    width: 90%;
+    height:290px ;
+    margin-bottom: 5px;
+    position: relative;
+    justify-content: center;
+}
+
+/* ==============================  mesdia ================= */
+@media (max-width: 425px){
+.section8 {
+     height: 955px;
+   } 
+}
+/* ================== test one ============================ */
+.test
+{
+   width: 25%;
+   height: 100%;
+    background-image: url(../img/img/team/team-3.jpg);
+    background-size: 100%;
+    position: relative;
+    overflow: hidden;
+    margin: 0px 10px;
+    background-repeat: no-repeat; 
+
+}
+
+.test .left{
+    width: 20%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.678);
+    margin-left: -90px;
+    position: absolute;
+    transition: all .5s;   
+     background-repeat: no-repeat; 
+     color: aliceblue;
+  
+
+}
+.fa-facebook{
+    margin-top: 10px;
+  font-size: 30px;
+}    
+.fa-twitter{
+    margin-top: 14px;
+    font-size: 30px;
+}
+.fa-instagram{
+    margin-top: 14px;
+    font-size: 30px;
+}
+.fa-linkedin{
+    margin-top: 14px;
+    font-size: 30px;
+}
+
+.test:hover .left{
+    margin-left: -30px;
+}
+.test .bottom{
+    width: 100%;
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.678);
+    position: absolute;
+    bottom: -80px;
+    transition: all,5;
+}
+.clin{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.clin h1{
+    font-size: 25px;
+}
+
+.test:hover .bottom{
+    bottom: 0px;
+}
+/* start media section 8  test one*/
+
+@media(max-width:425px){
+
+   .section8 .test{
+        width: 100%;
+        height: 100%;
+    }
+    .test .left {
+        width: 25%;
+        height: 100%;
+    }
+
+    .test .bottom {
+        width: 100%;
+        height: 62px;
+    }
+    .test:hover .bottom{
+        bottom: 0px;
+    }
+}
+    
+    /* end media section 8 tset  */
+
+/* =========================== end test one ===================== */
+
+/* =========================== start test tow ===================== */
+
+
+.test2
+{
+   width: 25%;
+   height: 100%;
+    background-image: url(../img/img/team/team-2.jpg);
+    background-size: 100%;
+    position: relative;
+    overflow: hidden;
+    margin: 0px 10px;
+    background-repeat: no-repeat; 
+
+}
+
+.test2 .left{
+    width: 20%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.678);
+    margin-left: -90px;
+    position: absolute;
+    transition: all .5s;   
+     background-repeat: no-repeat; 
+     color: aliceblue;
+  
+
+}
+.fa-facebook{
+    margin-top: 10px;
+  font-size: 30px;
+}    
+.fa-twitter{
+    margin-top: 14px;
+    font-size: 30px;
+}
+.fa-instagram{
+    margin-top: 14px;
+    font-size: 30px;
+}
+.fa-linkedin{
+    margin-top: 14px;
+    font-size: 30px;
+}
+
+.test2:hover .left{
+    margin-left: -30px;
+}
+.test2 .bottom2{
+    width: 100%;
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.678);
+    position: absolute;
+    bottom: -80px;
+    transition: all,5;
+}
+.clin{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.clin h1{
+    font-size: 25px;
+}
+
+.test2:hover .bottom2{
+    bottom: 0px;
+}
+
+
+
+/* start media section 8  test tow*/
+
+@media(max-width :425px){
+  
+
+    .section8 .test2{
+         width: 100%;
+         height: 100%;
+     }
+     .test2 .left{
+        width: 25%;
+        height: 100%;
+     }
+     .test2 .bottom2{
+         width: 100%;
+         height: 62px;
+     }
+     .test2:hover .bottom2{
+         bottom: 0px;
+     }
+ }
+     
+     /* end media section 8 tset two  */
+ 
+/* =========================== end test tow ===================== */
+
+/* =========================== start testthere ===================== */
+
+
+.test3
+{
+   width: 25%;
+   height: 100%;
+    background-image: url(../img/img/team/team-3.jpg);
+    background-size: 100%;
+    position: relative;
+    overflow: hidden;
+    margin: 0px 10px;
+    background-repeat: no-repeat; 
+
+}
+
+.test3 .left{
+    width: 20%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.678);
+    margin-left: -90px;
+    position: absolute;
+    transition: all .5s;   
+     background-repeat: no-repeat; 
+     color: aliceblue;
+  
+
+}
+.fa-facebook{
+    margin-top: 10px;
+  font-size: 30px;
+}    
+.fa-twitter{
+    margin-top: 14px;
+    font-size: 30px;
+}
+.fa-instagram{
+    margin-top: 14px;
+    font-size: 30px;
+}
+.fa-linkedin{
+    margin-top: 14px;
+    font-size: 30px;
+}
+
+.test3:hover .left{
+    margin-left: -30px;
+}
+.test3 .bottom{
+    width: 100%;
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.678);
+    position: absolute;
+    bottom: -80px;
+    transition: all,5;
+}
+.clin{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.clin h1{
+    font-size: 25px;
+}
+
+.test3:hover .bottom{
+    bottom: 0px;
+}
+
+
+
+/* start media section 8  test there*/
+
+@media(max-width :425px){
+  
+
+    .section8 .test3{
+         width: 100%;
+         height: 100%;
+     }
+     .test3 .left{
+        width: 25%;
+        height: 100%;
+     }
+     .test3 .bottom{
+         width: 100%;
+         height: 62px;
+     }
+     .test3:hover .bottom{
+         bottom: 0px;
+     }
+ }
+     
+     /* end media section 8 tset there  */
+ 
+/* =========================== end test there ===================== */
+
+/* =========================== start test four ===================== */
+
+
+.test4
+{
+   width: 25%;
+   height: 100%;
+    background-image: url(../img/img/team/team-4.jpg);
+    background-size: 100%;
+    position: relative;
+    overflow: hidden;
+    margin: 0px 10px;
+    background-repeat: no-repeat; 
+
+}
+
+.test4 .left{
+    width: 20%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.678);
+    margin-left: -90px;
+    position: absolute;
+    transition: all .5s;   
+     background-repeat: no-repeat; 
+     color: aliceblue;
+  
+
+}
+.fa-facebook{
+    margin-top: 10px;
+  font-size: 30px;
+}    
+.fa-twitter{
+    margin-top: 14px;
+    font-size: 30px;
+}
+.fa-instagram{
+    margin-top: 14px;
+    font-size: 30px;
+}
+.fa-linkedin{
+    margin-top: 14px;
+    font-size: 30px;
+}
+
+.test4:hover .left{
+    margin-left: -30px;
+}
+.test4 .bottom{
+    width: 100%;
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.678);
+    position: absolute;
+    bottom: -80px;
+    transition: all,5;
+}
+.clin{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.clin h1{
+    font-size: 25px;
+}
+
+.test4:hover .bottom{
+    bottom: 0px;
+}
+
+
+
+/* start media section 8  test four*/
+
+@media(max-width :425px){
+  
+
+    .section8 .test4{
+         width: 100%;
+         height: 100%;
+     }
+     .test4 .left{
+        width: 25%;
+        height: 100%;
+     }
+     .test4 .bottom{
+         width: 100%;
+         height: 62px;
+     }
+     .test4:hover .bottom{
+         bottom: 0px;
+     }
+ }
+     
+     /* end media section 8 tset four */
+ 
+/* =========================== end four ===================== */
+
+/* <!-- ============================== end section 8 ======================= !--> */
+
+
+
+
+/* ==================================================== start section 9 ====== ==============================*/
